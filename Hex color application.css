@@ -1,0 +1,10 @@
+#hexcolor button{
+    margin-top: 30%;
+    left: 40%;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    width: 80px
+
+}
